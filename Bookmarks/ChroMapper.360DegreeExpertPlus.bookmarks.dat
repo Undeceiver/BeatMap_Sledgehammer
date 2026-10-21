@@ -1,0 +1,118 @@
+{
+  "name" : "ChroMapper",
+  "characteristic" : "360Degree",
+  "difficulty" : "ExpertPlus",
+  "color" : "00FFFF",
+  "bookmarks" : [
+    {
+      "beat" : 0,
+      "label" : "Very Start",
+      "text" : "Very Start"
+    },
+    {
+      "beat" : 6,
+      "label" : "Actual start",
+      "text" : "Actual start"
+    },
+    {
+      "beat" : 107,
+      "label" : "Building",
+      "text" : "Building"
+    },
+    {
+      "beat" : 151,
+      "label" : "Ready",
+      "text" : "Ready"
+    },
+    {
+      "beat" : 166,
+      "label" : "It's a sledgehammer",
+      "text" : "It's a sledgehammer"
+    },
+    {
+      "beat" : 198,
+      "label" : "Again",
+      "text" : "Again"
+    },
+    {
+      "beat" : 230,
+      "label" : "Break",
+      "text" : "Break"
+    },
+    {
+      "beat" : 262,
+      "label" : "End of break",
+      "text" : "End of break"
+    },
+    {
+      "beat" : 294,
+      "label" : "Again",
+      "text" : "Again"
+    },
+    {
+      "beat" : 326,
+      "label" : "Mid",
+      "text" : "Mid"
+    },
+    {
+      "beat" : 358,
+      "label" : "Check out the technique",
+      "text" : "Check out the technique"
+    },
+    {
+      "beat" : 390,
+      "label" : "Again",
+      "text" : "Again"
+    },
+    {
+      "beat" : 438,
+      "label" : "Chillin",
+      "text" : "Chillin"
+    },
+    {
+      "beat" : 504,
+      "label" : "It's a sledgehammer",
+      "text" : "It's a sledgehammer"
+    },
+    {
+      "beat" : 536,
+      "label" : "Again",
+      "text" : "Again"
+    },
+    {
+      "beat" : 568,
+      "label" : "Again again",
+      "text" : "Again again"
+    },
+    {
+      "beat" : 600,
+      "label" : "Again again again",
+      "text" : "Again again again"
+    },
+    {
+      "beat" : 632,
+      "label" : "Transition",
+      "text" : "Transition"
+    },
+    {
+      "beat" : 664,
+      "label" : "Boss fight",
+      "text" : "Boss fight"
+    },
+    {
+      "beat" : 696,
+      "label" : "Phase 2",
+      "text" : "Phase 2"
+    },
+    {
+      "beat" : 728,
+      "label" : "Death animation",
+      "text" : "Death animation"
+    },
+    {
+      "beat" : 743,
+      "label" : "God. Damn.",
+      "text" : "God. Damn."
+    }
+  ]
+}

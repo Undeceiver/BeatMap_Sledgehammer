@@ -1,0 +1,80 @@
+{
+  "version" : "4.0.1",
+  "song" : {
+    "title" : "Sledgehammer",
+    "subTitle" : "",
+    "author" : "Savant"
+  },
+  "audio" : {
+    "songFilename" : "song.ogg",
+    "songDuration" : 234.881,
+    "audioDataFilename" : "AudioData.dat",
+    "bpm" : 200,
+    "lufs" : 0,
+    "previewStartTime" : 55.5,
+    "previewDuration" : 10
+  },
+  "songPreviewFilename" : "song.ogg",
+  "coverImageFilename" : "cover.png",
+  "environmentNames" : [
+    "DefaultEnvironment"
+  ],
+  "colorSchemes" : [
+  ],
+  "difficultyBeatmaps" : [
+    {
+      "characteristic" : "360Degree",
+      "difficulty" : "ExpertPlus",
+      "beatmapAuthors" : {
+        "mappers" : [
+          "Undeceiver"
+        ],
+        "lighters" : [
+          "TheGeriatricJedi"
+        ]
+      },
+      "environmentNameIdx" : 0,
+      "beatmapColorSchemeIdx" : 0,
+      "noteJumpMovementSpeed" : 18,
+      "noteJumpStartBeatOffset" : 0,
+      "beatmapDataFilename" : "ExpertPlus360Degree.dat",
+      "lightshowDataFilename" : "Lightshow.dat",
+      "customData" : {
+        "difficultyLabel" : "It's a Sledgehammer!"
+      }
+    },
+    {
+      "characteristic" : "Standard",
+      "difficulty" : "ExpertPlus",
+      "beatmapAuthors" : {
+        "mappers" : [
+          "Undeceiver"
+        ],
+        "lighters" : [
+          "TheGeriatricJedi"
+        ]
+      },
+      "environmentNameIdx" : 0,
+      "beatmapColorSchemeIdx" : 0,
+      "noteJumpMovementSpeed" : 18,
+      "noteJumpStartBeatOffset" : 0,
+      "beatmapDataFilename" : "ExpertPlusStandard.dat",
+      "lightshowDataFilename" : "Lightshow.dat"
+    }
+  ],
+  "customData" : {
+    "characteristicData" : [
+      {
+        "characteristic" : "360Degree",
+        "label" : "360/2",
+        "iconPath" : "360-2.png"
+      }
+    ],
+    "editors" : {
+      "lastEditedBy" : "ChroMapper",
+      "ChroMapper" : {
+        "version" : "0.13.892"
+      }
+    }
+  }
+}
