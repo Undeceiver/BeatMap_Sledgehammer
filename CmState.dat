@@ -1,0 +1,120 @@
+{
+  "components" : {
+    "chromaPicker" : {
+      "presets" : {
+        "default" : [
+        ]
+      },
+      "selectedColor" : {"r":1,"g":0,"b":0,"a":1}
+    },
+    "colorEvent" : {
+      "color" : 1,
+      "brightness" : 1,
+      "frequency" : 1,
+      "strobeBrightness" : 0,
+      "strobeFade" : 0,
+      "easing" : 0,
+      "usePrevious" : 0
+    },
+    "editingMode" : {
+      "mode" : 1
+    },
+    "rotationGroup" : {
+      "rotation" : 90,
+      "loop" : 0,
+      "direction" : 0,
+      "easing" : 0,
+      "usePrevious" : 0
+    },
+    "rotationEvent" : {
+      "rotation" : 90,
+      "loop" : 0,
+      "direction" : 0,
+      "easing" : 0,
+      "usePrevious" : 0
+    },
+    "currentJsonTime" : {
+      "value" : 753,
+      "gridMeasureSnapping" : 4
+    },
+    "easingMenu" : {
+      "easing" : 0,
+      "extension" : 0
+    },
+    "basicEventPlacement" : {
+      "value" : 0,
+      "floatValue" : 1,
+      "laserSpeed" : "0"
+    },
+    "glsGroupPage" : {
+      "group" : ""
+    },
+    "editingCamera" : {
+      "position" : [
+        -0.0989999995,
+        1.69599998,
+        -3.52999997
+      ],
+      "rotation" : [
+        -0.0169975106,
+        0.00199970719,
+        0,
+        -0.999853492
+      ]
+    },
+    "translationEvent" : {
+      "translation" : 0,
+      "easing" : 0,
+      "usePrevious" : 0
+    },
+    "colorType" : {
+      "type" : 1
+    },
+    "floatFxGroup" : {
+      "value" : 0,
+      "easing" : 0,
+      "usePrevious" : 0
+    },
+    "scrollPrecision" : {
+      "value" : 2
+    },
+    "floatFxEvent" : {
+      "value" : 0,
+      "easing" : 0,
+      "usePrevious" : 0
+    },
+    "gameplayPlacement" : {
+      "arcHeadMultiplier" : 1,
+      "arcTailMultiplier" : 1,
+      "chainSquish" : 1,
+      "chainSliceCount" : 5,
+      "laneCount" : 4,
+      "obstacleLaneExtend" : 24
+    },
+    "colorGroup" : {
+      "color" : 1,
+      "brightness" : 1,
+      "frequency" : 1,
+      "strobeBrightness" : 0,
+      "strobeFade" : 0,
+      "easing" : 0,
+      "usePrevious" : 0
+    },
+    "translationGroup" : {
+      "translation" : 0,
+      "easing" : 0,
+      "usePrevious" : 0
+    },
+    "strobePicker" : {
+      "color" : {"r":1,"g":0,"b":0,"a":1},
+      "enabled" : false
+    },
+    "placementMode" : {
+      "mode" : 0
+    },
+    "basicEventLightIdPage" : {
+      "eventType" : 1,
+      "active" : false
+    }
+  }
+}

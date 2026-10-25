@@ -7,7 +7,7 @@
   },
   "audio" : {
     "songFilename" : "song.ogg",
-    "songDuration" : 234.881,
+    "songDuration" : 234.880997,
     "audioDataFilename" : "AudioData.dat",
     "bpm" : 200,
     "lufs" : 0,
@@ -73,7 +73,8 @@
     "editors" : {
       "lastEditedBy" : "ChroMapper",
       "ChroMapper" : {
-        "version" : "0.13.892"
+        "_version" : "0.14.996",
+        "_state" : "CmState.dat"
       }
     }
   }
