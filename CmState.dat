@@ -8,28 +8,28 @@
       "selectedColor" : {"r":1,"g":0,"b":0,"a":1}
     },
     "colorEvent" : {
-      "color" : 1,
+      "color" : 0,
       "brightness" : 1,
       "frequency" : 1,
-      "strobeBrightness" : 0,
+      "strobeBrightness" : 0.5,
       "strobeFade" : 0,
-      "easing" : 0,
+      "easing" : -1,
       "usePrevious" : 0
     },
     "editingMode" : {
       "mode" : 1
     },
     "rotationGroup" : {
-      "rotation" : 90,
+      "rotation" : 180,
       "loop" : 0,
-      "direction" : 0,
+      "direction" : 2,
       "easing" : 0,
       "usePrevious" : 0
     },
     "rotationEvent" : {
-      "rotation" : 90,
+      "rotation" : 180,
       "loop" : 0,
-      "direction" : 0,
+      "direction" : 2,
       "easing" : 0,
       "usePrevious" : 0
     },
@@ -42,7 +42,7 @@
       "extension" : 0
     },
     "basicEventPlacement" : {
-      "value" : 0,
+      "value" : 5,
       "floatValue" : 1,
       "laserSpeed" : "0"
     },
@@ -51,15 +51,15 @@
     },
     "editingCamera" : {
       "position" : [
-        -0.0989999995,
-        1.69599998,
-        -3.52999997
+        0.00425258605,
+        1.64915037,
+        -3.14066911
       ],
       "rotation" : [
-        -0.0169975106,
-        0.00199970719,
-        0,
-        -0.999853492
+        -0.0125786755,
+        0.0105555793,
+        -0.000132793124,
+        -0.999865174
       ]
     },
     "translationEvent" : {
@@ -68,7 +68,7 @@
       "usePrevious" : 0
     },
     "colorType" : {
-      "type" : 1
+      "type" : 0
     },
     "floatFxGroup" : {
       "value" : 0,
@@ -92,12 +92,12 @@
       "obstacleLaneExtend" : 24
     },
     "colorGroup" : {
-      "color" : 1,
+      "color" : 0,
       "brightness" : 1,
       "frequency" : 1,
-      "strobeBrightness" : 0,
+      "strobeBrightness" : 0.5,
       "strobeFade" : 0,
-      "easing" : 0,
+      "easing" : -1,
       "usePrevious" : 0
     },
     "translationGroup" : {
