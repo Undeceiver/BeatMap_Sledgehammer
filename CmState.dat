@@ -11,7 +11,7 @@
       "color" : 0,
       "brightness" : 1,
       "frequency" : 1,
-      "strobeBrightness" : 0.5,
+      "strobeBrightness" : 1,
       "strobeFade" : 0,
       "easing" : 0,
       "usePrevious" : 0
@@ -23,28 +23,28 @@
       "rotation" : 90,
       "loop" : 0,
       "direction" : 2,
-      "easing" : 0,
+      "easing" : 19,
       "usePrevious" : 0
     },
     "rotationEvent" : {
       "rotation" : 90,
       "loop" : 0,
       "direction" : 2,
-      "easing" : 0,
+      "easing" : 19,
       "usePrevious" : 0
     },
     "currentJsonTime" : {
-      "value" : 230.75,
+      "value" : 753,
       "gridMeasureSnapping" : 4
     },
     "easingMenu" : {
-      "easing" : 0,
+      "easing" : 19,
       "extension" : 0
     },
     "basicEventPlacement" : {
-      "value" : 0,
+      "value" : 7,
       "floatValue" : 1,
-      "laserSpeed" : "0"
+      "laserSpeed" : "3"
     },
     "glsGroupPage" : {
       "group" : ""
@@ -56,15 +56,15 @@
         -1.56842518
       ],
       "rotation" : [
-        0.0021997341,
-        0.00566683942,
-        1.24657699E-05,
-        -0.999981523
+        -0.00321073178,
+        0.00374710956,
+        -1.20311097E-05,
+        -0.999987841
       ]
     },
     "translationEvent" : {
       "translation" : 0,
-      "easing" : 0,
+      "easing" : 19,
       "usePrevious" : 0
     },
     "colorType" : {
@@ -72,7 +72,7 @@
     },
     "floatFxGroup" : {
       "value" : 0,
-      "easing" : 0,
+      "easing" : 19,
       "usePrevious" : 0
     },
     "scrollPrecision" : {
@@ -80,7 +80,7 @@
     },
     "floatFxEvent" : {
       "value" : 0,
-      "easing" : 0,
+      "easing" : 19,
       "usePrevious" : 0
     },
     "gameplayPlacement" : {
@@ -95,14 +95,14 @@
       "color" : 0,
       "brightness" : 1,
       "frequency" : 1,
-      "strobeBrightness" : 0.5,
+      "strobeBrightness" : 1,
       "strobeFade" : 0,
       "easing" : 0,
       "usePrevious" : 0
     },
     "translationGroup" : {
       "translation" : 0,
-      "easing" : 0,
+      "easing" : 19,
       "usePrevious" : 0
     },
     "strobePicker" : {
@@ -110,11 +110,17 @@
       "enabled" : false
     },
     "placementMode" : {
-      "mode" : 2
+      "mode" : 0
     },
     "basicEventLightIdPage" : {
       "eventType" : 1,
       "active" : false
+    },
+    "basicEventFloatInput" : {
+      "value" : 1
+    },
+    "basicEventLightingMode" : {
+      "mode" : 3
     }
   }
 }
