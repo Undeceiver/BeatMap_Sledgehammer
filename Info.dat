@@ -40,6 +40,7 @@
       "beatmapDataFilename" : "ExpertPlus360Degree.dat",
       "lightshowDataFilename" : "Lightshow.dat",
       "customData" : {
+        "showRotationNoteSpawnLines" : false,
         "difficultyLabel" : "It's a Sledgehammer!"
       }
     },

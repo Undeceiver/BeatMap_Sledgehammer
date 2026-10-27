@@ -13,28 +13,28 @@
       "frequency" : 1,
       "strobeBrightness" : 0.5,
       "strobeFade" : 0,
-      "easing" : -1,
+      "easing" : 0,
       "usePrevious" : 0
     },
     "editingMode" : {
       "mode" : 1
     },
     "rotationGroup" : {
-      "rotation" : 180,
+      "rotation" : 90,
       "loop" : 0,
       "direction" : 2,
       "easing" : 0,
       "usePrevious" : 0
     },
     "rotationEvent" : {
-      "rotation" : 180,
+      "rotation" : 90,
       "loop" : 0,
       "direction" : 2,
       "easing" : 0,
       "usePrevious" : 0
     },
     "currentJsonTime" : {
-      "value" : 753,
+      "value" : 230.75,
       "gridMeasureSnapping" : 4
     },
     "easingMenu" : {
@@ -42,7 +42,7 @@
       "extension" : 0
     },
     "basicEventPlacement" : {
-      "value" : 5,
+      "value" : 0,
       "floatValue" : 1,
       "laserSpeed" : "0"
     },
@@ -51,15 +51,15 @@
     },
     "editingCamera" : {
       "position" : [
-        0.00425258605,
-        1.64915037,
-        -3.14066911
+        0.00594381895,
+        1.60797644,
+        -1.56842518
       ],
       "rotation" : [
-        -0.0125786755,
-        0.0105555793,
-        -0.000132793124,
-        -0.999865174
+        0.0021997341,
+        0.00566683942,
+        1.24657699E-05,
+        -0.999981523
       ]
     },
     "translationEvent" : {
@@ -97,7 +97,7 @@
       "frequency" : 1,
       "strobeBrightness" : 0.5,
       "strobeFade" : 0,
-      "easing" : -1,
+      "easing" : 0,
       "usePrevious" : 0
     },
     "translationGroup" : {
@@ -110,7 +110,7 @@
       "enabled" : false
     },
     "placementMode" : {
-      "mode" : 0
+      "mode" : 2
     },
     "basicEventLightIdPage" : {
       "eventType" : 1,
