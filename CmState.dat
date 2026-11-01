@@ -9,9 +9,9 @@
     },
     "colorEvent" : {
       "color" : 0,
-      "brightness" : 1,
+      "brightness" : 0.5,
       "frequency" : 1,
-      "strobeBrightness" : 0,
+      "strobeBrightness" : 0.5,
       "strobeFade" : 0,
       "easing" : 0,
       "usePrevious" : 0
@@ -20,29 +20,29 @@
       "mode" : 1
     },
     "rotationGroup" : {
-      "rotation" : 90,
+      "rotation" : 180,
       "loop" : 0,
       "direction" : 2,
-      "easing" : 19,
+      "easing" : 0,
       "usePrevious" : 0
     },
     "rotationEvent" : {
-      "rotation" : 90,
+      "rotation" : 180,
       "loop" : 0,
       "direction" : 2,
-      "easing" : 19,
+      "easing" : 0,
       "usePrevious" : 0
     },
     "currentJsonTime" : {
-      "value" : 318.9375,
+      "value" : 438.25,
       "gridMeasureSnapping" : 4
     },
     "easingMenu" : {
-      "easing" : 19,
+      "easing" : 0,
       "extension" : 0
     },
     "basicEventPlacement" : {
-      "value" : 5,
+      "value" : 6,
       "floatValue" : 1,
       "laserSpeed" : "3"
     },
@@ -51,20 +51,20 @@
     },
     "editingCamera" : {
       "position" : [
-        4.86499977,
-        12.6350002,
-        0.847000003
+        -0.0600076504,
+        1.66659057,
+        -0.344472945
       ],
       "rotation" : [
-        -0.374151021,
-        0.592239022,
-        -0.358144552,
-        -0.617249072
+        0.0200535804,
+        0.00897659175,
+        0.000180056275,
+        -0.999758601
       ]
     },
     "translationEvent" : {
       "translation" : 0,
-      "easing" : 19,
+      "easing" : 0,
       "usePrevious" : 0
     },
     "colorType" : {
@@ -72,7 +72,7 @@
     },
     "floatFxGroup" : {
       "value" : 0,
-      "easing" : 19,
+      "easing" : 0,
       "usePrevious" : 0
     },
     "scrollPrecision" : {
@@ -80,7 +80,7 @@
     },
     "floatFxEvent" : {
       "value" : 0,
-      "easing" : 19,
+      "easing" : 0,
       "usePrevious" : 0
     },
     "gameplayPlacement" : {
@@ -93,16 +93,16 @@
     },
     "colorGroup" : {
       "color" : 0,
-      "brightness" : 1,
+      "brightness" : 0.5,
       "frequency" : 1,
-      "strobeBrightness" : 0,
+      "strobeBrightness" : 0.5,
       "strobeFade" : 0,
       "easing" : 0,
       "usePrevious" : 0
     },
     "translationGroup" : {
       "translation" : 0,
-      "easing" : 19,
+      "easing" : 0,
       "usePrevious" : 0
     },
     "strobePicker" : {

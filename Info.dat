@@ -67,8 +67,8 @@
     "characteristicData" : [
       {
         "characteristic" : "360Degree",
-        "label" : "360/2",
-        "iconPath" : "360-2.png"
+        "label" : "360 Walls and Bombs",
+        "iconPath" : "360 Walls and Bombs.png"
       }
     ],
     "editors" : {
