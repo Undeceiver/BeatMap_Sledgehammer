@@ -8,8 +8,8 @@
       "selectedColor" : {"r":1,"g":0,"b":0,"a":1}
     },
     "colorEvent" : {
-      "color" : 0,
-      "brightness" : 0.5,
+      "color" : 1,
+      "brightness" : 1,
       "frequency" : 1,
       "strobeBrightness" : 0.5,
       "strobeFade" : 0,
@@ -20,29 +20,29 @@
       "mode" : 1
     },
     "rotationGroup" : {
-      "rotation" : 180,
+      "rotation" : 90,
       "loop" : 0,
-      "direction" : 2,
+      "direction" : 0,
       "easing" : 0,
       "usePrevious" : 0
     },
     "rotationEvent" : {
-      "rotation" : 180,
+      "rotation" : 90,
       "loop" : 0,
-      "direction" : 2,
+      "direction" : 0,
       "easing" : 0,
       "usePrevious" : 0
     },
     "currentJsonTime" : {
-      "value" : 8.75,
-      "gridMeasureSnapping" : 4
+      "value" : 472.333374,
+      "gridMeasureSnapping" : 3
     },
     "easingMenu" : {
       "easing" : 0,
       "extension" : 0
     },
     "basicEventPlacement" : {
-      "value" : 5,
+      "value" : 0,
       "floatValue" : 1,
       "laserSpeed" : "3"
     },
@@ -51,15 +51,15 @@
     },
     "editingCamera" : {
       "position" : [
-        0.00425258605,
-        1.64915037,
-        -3.14066911
+        -0.0600076504,
+        1.66659057,
+        -0.344472945
       ],
       "rotation" : [
-        -0.0125786755,
-        0.0105555793,
-        -0.000132793124,
-        -0.999865174
+        0.0200535804,
+        0.00897659175,
+        0.000180056275,
+        -0.999758601
       ]
     },
     "translationEvent" : {
@@ -68,7 +68,7 @@
       "usePrevious" : 0
     },
     "colorType" : {
-      "type" : 0
+      "type" : 1
     },
     "floatFxGroup" : {
       "value" : 0,
@@ -92,8 +92,8 @@
       "obstacleLaneExtend" : 24
     },
     "colorGroup" : {
-      "color" : 0,
-      "brightness" : 0.5,
+      "color" : 1,
+      "brightness" : 1,
       "frequency" : 1,
       "strobeBrightness" : 0.5,
       "strobeFade" : 0,
@@ -110,7 +110,7 @@
       "enabled" : false
     },
     "placementMode" : {
-      "mode" : 5
+      "mode" : 0
     },
     "basicEventLightIdPage" : {
       "eventType" : 1,
