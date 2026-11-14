@@ -9,7 +9,7 @@
     },
     "colorEvent" : {
       "color" : 0,
-      "brightness" : 1.5,
+      "brightness" : 1,
       "frequency" : 1,
       "strobeBrightness" : 0.5,
       "strobeFade" : 0,
@@ -34,7 +34,7 @@
       "usePrevious" : 0
     },
     "currentJsonTime" : {
-      "value" : 753,
+      "value" : 421.5,
       "gridMeasureSnapping" : 4
     },
     "easingMenu" : {
@@ -42,7 +42,7 @@
       "extension" : 0
     },
     "basicEventPlacement" : {
-      "value" : 0,
+      "value" : 5,
       "floatValue" : 1,
       "laserSpeed" : "3"
     },
@@ -51,15 +51,15 @@
     },
     "editingCamera" : {
       "position" : [
-        0.00425258605,
-        1.64915037,
-        -3.14066911
+        4.86499977,
+        12.6350002,
+        0.847000003
       ],
       "rotation" : [
-        -0.0125786755,
-        0.0105555793,
-        -0.000132793124,
-        -0.999865174
+        -0.374151021,
+        0.592239022,
+        -0.358144552,
+        -0.617249072
       ]
     },
     "translationEvent" : {
@@ -93,7 +93,7 @@
     },
     "colorGroup" : {
       "color" : 0,
-      "brightness" : 1.5,
+      "brightness" : 1,
       "frequency" : 1,
       "strobeBrightness" : 0.5,
       "strobeFade" : 0,
@@ -110,7 +110,7 @@
       "enabled" : false
     },
     "placementMode" : {
-      "mode" : 5
+      "mode" : 0
     },
     "basicEventLightIdPage" : {
       "eventType" : 1,
