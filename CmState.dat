@@ -9,7 +9,7 @@
     },
     "colorEvent" : {
       "color" : 0,
-      "brightness" : 1,
+      "brightness" : 1.5,
       "frequency" : 1,
       "strobeBrightness" : 0.5,
       "strobeFade" : 0,
@@ -20,14 +20,14 @@
       "mode" : 1
     },
     "rotationGroup" : {
-      "rotation" : 135,
+      "rotation" : 90,
       "loop" : 0,
       "direction" : 2,
       "easing" : 0,
       "usePrevious" : 0
     },
     "rotationEvent" : {
-      "rotation" : 135,
+      "rotation" : 90,
       "loop" : 0,
       "direction" : 2,
       "easing" : 0,
@@ -51,15 +51,15 @@
     },
     "editingCamera" : {
       "position" : [
-        -0.0600076504,
-        1.66659057,
-        -0.344472945
+        0.00425258605,
+        1.64915037,
+        -3.14066911
       ],
       "rotation" : [
-        0.0200535804,
-        0.00897659175,
-        0.000180056275,
-        -0.999758601
+        -0.0125786755,
+        0.0105555793,
+        -0.000132793124,
+        -0.999865174
       ]
     },
     "translationEvent" : {
@@ -93,7 +93,7 @@
     },
     "colorGroup" : {
       "color" : 0,
-      "brightness" : 1,
+      "brightness" : 1.5,
       "frequency" : 1,
       "strobeBrightness" : 0.5,
       "strobeFade" : 0,
@@ -120,7 +120,7 @@
       "value" : 1
     },
     "basicEventLightingMode" : {
-      "mode" : 3
+      "mode" : 1
     }
   }
 }
