@@ -7,7 +7,7 @@
   },
   "audio" : {
     "songFilename" : "song.ogg",
-    "songDuration" : 234.880997,
+    "songDuration" : 234.881,
     "audioDataFilename" : "AudioData.dat",
     "bpm" : 200,
     "lufs" : 0,
@@ -60,7 +60,10 @@
       "noteJumpMovementSpeed" : 18,
       "noteJumpStartBeatOffset" : 0,
       "beatmapDataFilename" : "ExpertPlusStandard.dat",
-      "lightshowDataFilename" : "Lightshow.dat"
+      "lightshowDataFilename" : "Lightshow.dat",
+      "customData" : {
+        "showRotationNoteSpawnLines" : false
+      }
     }
   ],
   "customData" : {
@@ -74,7 +77,7 @@
     "editors" : {
       "lastEditedBy" : "ChroMapper",
       "ChroMapper" : {
-        "_version" : "0.14.996",
+        "_version" : "0.14.1000",
         "_state" : "CmState.dat"
       }
     }
