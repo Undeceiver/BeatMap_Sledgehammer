@@ -17,11 +17,32 @@
   "songPreviewFilename" : "song.ogg",
   "coverImageFilename" : "cover.png",
   "environmentNames" : [
-    "DefaultEnvironment"
+    "GridEnvironment"
   ],
   "colorSchemes" : [
   ],
   "difficultyBeatmaps" : [
+    {
+      "characteristic" : "360Degree",
+      "difficulty" : "Expert",
+      "beatmapAuthors" : {
+        "mappers" : [
+          "Undeceiver"
+        ],
+        "lighters" : [
+          "TheGeriatricJedi"
+        ]
+      },
+      "environmentNameIdx" : 0,
+      "beatmapColorSchemeIdx" : 0,
+      "noteJumpMovementSpeed" : 18,
+      "noteJumpStartBeatOffset" : 0,
+      "beatmapDataFilename" : "Expert360Degree.dat",
+      "lightshowDataFilename" : "Lightshow.dat",
+      "customData" : {
+        "showRotationNoteSpawnLines" : false
+      }
+    },
     {
       "characteristic" : "360Degree",
       "difficulty" : "ExpertPlus",
@@ -40,8 +61,7 @@
       "beatmapDataFilename" : "ExpertPlus360Degree.dat",
       "lightshowDataFilename" : "Lightshow.dat",
       "customData" : {
-        "showRotationNoteSpawnLines" : false,
-        "difficultyLabel" : "It's a Sledgehammer!"
+        "showRotationNoteSpawnLines" : false
       }
     },
     {

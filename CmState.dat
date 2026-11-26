@@ -8,71 +8,71 @@
       "selectedColor" : {"r":1,"g":0,"b":0,"a":1}
     },
     "colorEvent" : {
-      "color" : 1,
-      "brightness" : 1,
+      "color" : 0,
+      "brightness" : 0.5,
       "frequency" : 1,
       "strobeBrightness" : 0.5,
       "strobeFade" : 0,
-      "easing" : -1,
+      "easing" : 0,
       "usePrevious" : 0
     },
     "editingMode" : {
       "mode" : 1
     },
     "rotationGroup" : {
-      "rotation" : 90,
+      "rotation" : 180,
       "loop" : 0,
-      "direction" : 0,
-      "easing" : 19,
+      "direction" : 2,
+      "easing" : 2,
       "usePrevious" : 0
     },
     "rotationEvent" : {
-      "rotation" : 90,
+      "rotation" : 180,
       "loop" : 0,
-      "direction" : 0,
-      "easing" : 19,
+      "direction" : 2,
+      "easing" : 2,
       "usePrevious" : 0
     },
     "currentJsonTime" : {
-      "value" : 753,
+      "value" : 437,
       "gridMeasureSnapping" : 4
     },
     "easingMenu" : {
-      "easing" : 19,
+      "easing" : 2,
       "extension" : 0
     },
     "basicEventPlacement" : {
-      "value" : 1,
+      "value" : 6,
       "floatValue" : 1,
       "laserSpeed" : "3"
     },
     "glsGroupPage" : {
-      "group" : ""
+      "group" : "Chevron"
     },
     "editingCamera" : {
       "position" : [
-        0.015583299,
-        1.813006,
-        -0.50311935
+        0.004252586,
+        1.6491504,
+        -3.140669
       ],
       "rotation" : [
-        -0.027052147,
-        0.0032281047,
-        -8.7359585E-05,
-        -0.99962884
+        -0.0125786755,
+        0.010555579,
+        -0.00013279312,
+        -0.9998652
       ]
     },
     "translationEvent" : {
       "translation" : 0,
-      "easing" : 19,
+      "easing" : 2,
       "usePrevious" : 0
     },
     "colorType" : {
-      "type" : 1
+      "type" : 0
     },
     "floatFxGroup" : {
       "value" : 0,
-      "easing" : 19,
+      "easing" : 2,
       "usePrevious" : 0
     },
     "scrollPrecision" : {
@@ -80,7 +80,7 @@
     },
     "floatFxEvent" : {
       "value" : 0,
-      "easing" : 19,
+      "easing" : 2,
       "usePrevious" : 0
     },
     "gameplayPlacement" : {
@@ -92,17 +92,17 @@
       "obstacleLaneExtend" : 24
     },
     "colorGroup" : {
-      "color" : 1,
-      "brightness" : 1,
+      "color" : 0,
+      "brightness" : 0.5,
       "frequency" : 1,
       "strobeBrightness" : 0.5,
       "strobeFade" : 0,
-      "easing" : -1,
+      "easing" : 0,
       "usePrevious" : 0
     },
     "translationGroup" : {
       "translation" : 0,
-      "easing" : 19,
+      "easing" : 2,
       "usePrevious" : 0
     },
     "strobePicker" : {
@@ -110,7 +110,7 @@
       "enabled" : false
     },
     "placementMode" : {
-      "mode" : 0
+      "mode" : 2
     },
     "basicEventLightIdPage" : {
       "eventType" : 1,
