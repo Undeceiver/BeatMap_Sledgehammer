@@ -24,6 +24,27 @@
   "difficultyBeatmaps" : [
     {
       "characteristic" : "360Degree",
+      "difficulty" : "Hard",
+      "beatmapAuthors" : {
+        "mappers" : [
+          "Undeceiver"
+        ],
+        "lighters" : [
+          "TheGeriatricJedi"
+        ]
+      },
+      "environmentNameIdx" : 0,
+      "beatmapColorSchemeIdx" : 0,
+      "noteJumpMovementSpeed" : 16,
+      "noteJumpStartBeatOffset" : 0.5,
+      "beatmapDataFilename" : "Hard360Degree.dat",
+      "lightshowDataFilename" : "Lightshow.dat",
+      "customData" : {
+        "showRotationNoteSpawnLines" : false
+      }
+    },
+    {
+      "characteristic" : "360Degree",
       "difficulty" : "Expert",
       "beatmapAuthors" : {
         "mappers" : [

@@ -8,12 +8,12 @@
       "selectedColor" : {"r":1,"g":0,"b":0,"a":1}
     },
     "colorEvent" : {
-      "color" : 1,
+      "color" : 0,
       "brightness" : 1,
       "frequency" : 1,
       "strobeBrightness" : 1,
       "strobeFade" : 0,
-      "easing" : -1,
+      "easing" : 0,
       "usePrevious" : 0
     },
     "editingMode" : {
@@ -22,19 +22,19 @@
     "rotationGroup" : {
       "rotation" : 90,
       "loop" : 0,
-      "direction" : 0,
+      "direction" : 2,
       "easing" : 0,
       "usePrevious" : 0
     },
     "rotationEvent" : {
       "rotation" : 90,
       "loop" : 0,
-      "direction" : 0,
+      "direction" : 2,
       "easing" : 0,
       "usePrevious" : 0
     },
     "currentJsonTime" : {
-      "value" : 753,
+      "value" : 177.5,
       "gridMeasureSnapping" : 4
     },
     "easingMenu" : {
@@ -42,7 +42,7 @@
       "extension" : 0
     },
     "basicEventPlacement" : {
-      "value" : 1,
+      "value" : 5,
       "floatValue" : 1,
       "laserSpeed" : "3"
     },
@@ -68,7 +68,7 @@
       "usePrevious" : 0
     },
     "colorType" : {
-      "type" : 1
+      "type" : 0
     },
     "floatFxGroup" : {
       "value" : 0,
@@ -92,12 +92,12 @@
       "obstacleLaneExtend" : 24
     },
     "colorGroup" : {
-      "color" : 1,
+      "color" : 0,
       "brightness" : 1,
       "frequency" : 1,
       "strobeBrightness" : 1,
       "strobeFade" : 0,
-      "easing" : -1,
+      "easing" : 0,
       "usePrevious" : 0
     },
     "translationGroup" : {
@@ -110,7 +110,7 @@
       "enabled" : false
     },
     "placementMode" : {
-      "mode" : 0
+      "mode" : 5
     },
     "basicEventLightIdPage" : {
       "eventType" : 1,
