@@ -66,6 +66,27 @@
     },
     {
       "characteristic" : "Standard",
+      "difficulty" : "Expert",
+      "beatmapAuthors" : {
+        "mappers" : [
+          "Undeceiver"
+        ],
+        "lighters" : [
+          "TheGeriatricJedi"
+        ]
+      },
+      "environmentNameIdx" : 0,
+      "beatmapColorSchemeIdx" : 0,
+      "noteJumpMovementSpeed" : 18,
+      "noteJumpStartBeatOffset" : 0,
+      "beatmapDataFilename" : "ExpertStandard.dat",
+      "lightshowDataFilename" : "Lightshow.dat",
+      "customData" : {
+        "showRotationNoteSpawnLines" : false
+      }
+    },
+    {
+      "characteristic" : "Standard",
       "difficulty" : "ExpertPlus",
       "beatmapAuthors" : {
         "mappers" : [
